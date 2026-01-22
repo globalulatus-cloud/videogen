@@ -1,6 +1,7 @@
-streamlit
+streamlit==1.37.1
 moviepy==1.0.3
-numpy
+numpy==1.26.4
 Pillow==9.5.0
-imageio
-imageio-ffmpeg
+imageio==2.34.2
+imageio-ffmpeg==0.5.1
+decorator==4.4.2
