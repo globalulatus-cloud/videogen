@@ -1,0 +1,6 @@
+streamlit
+moviepy
+numpy
+Pillow
+imageio
+imageio-ffmpeg
